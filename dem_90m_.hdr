@@ -1,0 +1,14 @@
+ENVI
+description = {
+dem_90m_.asc}
+samples = 601
+lines   = 564
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+byte order = 0
+map info = {Arbitrary, 1, 1, 252801.679097, 4229894.352522, 90, 90, 0, North}
+band names = {
+Band 1}
